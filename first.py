@@ -29,5 +29,6 @@ class Parent(Person):
 
 parent1 = Parent("ashok,", 12, "swimmer")
 parent1.parentDetails()
+parent1.parentDetails()
 
 #test
